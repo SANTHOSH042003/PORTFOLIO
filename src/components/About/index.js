@@ -33,10 +33,10 @@ const About = () => {
             />
           </h1>
           <p>
-             I am Safrin Banu.This is my first PROJECT OF MERN!
+             I am Kamal.This is my first PROJECT OF MERN!
           </p>
           <p align="LEFT">
-            I am Studying my B.E- Information Science and Engineering branch at 
+            I am Studying my B.E- Electronics Communication and Engineering branch at 
             Bannari Amman Institute of Technology.
           </p>
           <p>

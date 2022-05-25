@@ -85,7 +85,7 @@ const Contact = () => {
           </div>
         </div>
         <div className="info-map">
-          SAFRIN BANU,
+          Kamal,
           <br />
           Bannari Amman Institute of Technology,
           <br />
@@ -97,13 +97,13 @@ const Contact = () => {
           Erode, 638402, <br />
           Tamil Nadu, India <br />
           <br />
-          <span>safrinshadir@gmail.comahamed2113@gmail.com</span>
+          <span>kamalvimal333@gmail.com</span>
         </div>
         <div className="map-wrap">
           <MapContainer center={[11.496851, 77.2772504]} zoom={13}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
             <Marker position={[11.496851, 77.2772504]}>
-              <Popup>safrin Banu lives here, come over for a best exprience:)</Popup>
+              <Popup>Kamal lives here, come over for a best exprience:)</Popup>
             </Marker>
           </MapContainer>
         </div>

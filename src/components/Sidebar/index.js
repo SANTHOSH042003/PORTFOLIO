@@ -36,7 +36,7 @@ const Sidebar = () => {
       <ul>
         <li>
           <a
-            href="https://github.com/Safrin-Banu"
+            href="https://github.com/Kamal-7376211EC175"
             target="_blank"
             rel="noreferrer"
           >
